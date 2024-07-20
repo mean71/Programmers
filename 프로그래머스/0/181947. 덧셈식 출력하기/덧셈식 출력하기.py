@@ -1,0 +1,1 @@
+while(ab:=list(map(int,input().strip().split(' '))))and ab[0]>=1 and ab[1]<=100:print(f'{ab[0]} + {ab[1]} = {ab[0]+ab[1]}');break
