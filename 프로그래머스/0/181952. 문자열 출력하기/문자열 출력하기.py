@@ -1,0 +1,1 @@
+while (str := input()) and 1<=len(str)<=1000000 and " " not in str:print(str);break
