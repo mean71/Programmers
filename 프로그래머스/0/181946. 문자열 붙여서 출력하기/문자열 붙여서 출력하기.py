@@ -1,0 +1,1 @@
+while(ab:=input().strip().split(' '))and all(1<=len(x)<=100 for x in ab):print(ab[0]+ab[1]);break
