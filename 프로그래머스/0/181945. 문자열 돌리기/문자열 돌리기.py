@@ -1,0 +1,1 @@
+while(str:=input())and 1<=len(str)<=10:[print(x)for x in str];break
