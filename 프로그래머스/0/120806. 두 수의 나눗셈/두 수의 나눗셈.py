@@ -1,1 +1,1 @@
-def solution(num1, num2):return int(num1/num2*1000)
+solution = lambda x, y : 1000*x // y
