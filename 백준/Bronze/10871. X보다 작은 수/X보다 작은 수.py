@@ -3,8 +3,7 @@ A = list(map(int,input().strip().split()))
 def test(x):
   return 1<= x <= 10000
 def Xsize(x,y):
-  if x > y:
-    return y
+  if x > y: return y
 def sx(n,x,a):
   prx = []
   if test(n) and test(x):
